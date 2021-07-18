@@ -1,0 +1,24 @@
+{
+  "name": "webrtc.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "receiver.js",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahanvi2002/jahanvi2002.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahanvi2002/jahanvi2002.github.io/issues"
+  },
+  "homepage": "https://github.com/jahanvi2002/jahanvi2002.github.io#readme"
+}
